@@ -1,0 +1,573 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588583071944' stop='1588583108106'>
+    <name>2. Profile Update:</name>
+    <title>2. Profile Update:</title>
+    <test-cases>
+        <test-case start='1588583071954' status='passed' stop='1588583078885'>
+            <name>User shall be able to change laboratory information.</name>
+            <title>User shall be able to change laboratory information.</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588583071958' status='passed' stop='1588583071964'>
+                    <name>I scroll page to top </name>
+                    <title>I scroll page to top </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583072065' status='passed' stop='1588583072330'>
+                    <name>I click "//input[@formcontrolname='name']"</name>
+                    <title>I click "//input[@formcontrolname='name']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583072432' status='passed' stop='1588583072793'>
+                    <name>I fill field "//input[@formcontrolname='name']", "laboratory_ythviwj Laboratory Name"</name>
+                    <title>I fill field "//input[@formcontrolname='name']", "laboratory_ythviwj Laboratory Name"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583072899' status='passed' stop='1588583073203'>
+                    <name>I fill field "//input[@formcontrolname='address']", "3862 Braun Glen"</name>
+                    <title>I fill field "//input[@formcontrolname='address']", "3862 Braun Glen"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583073307' status='passed' stop='1588583073594'>
+                    <name>I fill field "//input[@formcontrolname='city']", "Strosinton"</name>
+                    <title>I fill field "//input[@formcontrolname='city']", "Strosinton"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583073699' status='passed' stop='1588583073961'>
+                    <name>I click "//select[@formcontrolname='state']"</name>
+                    <title>I click "//select[@formcontrolname='state']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583073962' status='passed' stop='1588583074007'>
+                    <name>I select option "//select[@formcontrolname='state']", "Maryland"</name>
+                    <title>I select option "//select[@formcontrolname='state']", "Maryland"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583074112' status='passed' stop='1588583074401'>
+                    <name>I fill field "//input[@formcontrolname='zip']", "00236"</name>
+                    <title>I fill field "//input[@formcontrolname='zip']", "00236"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583074504' status='passed' stop='1588583074799'>
+                    <name>I fill field "//input[@formcontrolname='phone']", "1752369452"</name>
+                    <title>I fill field "//input[@formcontrolname='phone']", "1752369452"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583074903' status='passed' stop='1588583075166'>
+                    <name>I click "//label[@for='is_specimen_address_same1']"</name>
+                    <title>I click "//label[@for='is_specimen_address_same1']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583075270' status='passed' stop='1588583075583'>
+                    <name>I fill field "//input[@formcontrolname='web_address']", "https://isidro.net"</name>
+                    <title>I fill field "//input[@formcontrolname='web_address']", "https://isidro.net"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583075684' status='passed' stop='1588583076153'>
+                    <name>I fill field "//input[@formcontrolname='secondary_email']", "secondaryRecovery_lab_4wg_May04202005053074PM.bckiwaav@mailosaur.io"</name>
+                    <title>I fill field "//input[@formcontrolname='secondary_email']", "secondaryRecovery_lab_4wg_May04202005053074PM.bckiwaav@mailosaur.io"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583076257' status='passed' stop='1588583077016'>
+                    <name>I fill field "//textarea[@formcontrolname='description']", "Quo qui corporis qui sit impedit repudiandae. A aut tenetur. Voluptas animi sunt ut nesciunt ut omnis ex voluptatem. Omnis praesentium placeat voluptas. Aut quia id laborum est nemo fuga rem rerum. Porro praesentium modi molestias delectus nemo est ut."</name>
+                    <title>I fill field "//textarea[@formcontrolname='description']", "Quo qui corporis qui sit impedit repudiandae. A aut tenetur. Voluptas animi sunt ut nesciunt ut omnis ex voluptatem. Omnis praesentium placeat voluptas. Aut quia id laborum est nemo fuga rem rerum. Porro praesentium modi molestias delectus nemo est ut."</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583077120' status='passed' stop='1588583077493'>
+                    <name>I fill field "//input[@formcontrolname='name']", "laboratory_ythviwj Laboratory Name"</name>
+                    <title>I fill field "//input[@formcontrolname='name']", "laboratory_ythviwj Laboratory Name"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583077493' status='passed' stop='1588583078514'>
+                    <name>I save screenshot "output/Laboratory/User shall be able to change laboratory information.png", true</name>
+                    <title>I save screenshot "output/Laboratory/User shall be able to change laboratory information.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583078617' status='passed' stop='1588583078885'>
+                    <name>I click "Next"</name>
+                    <title>I click "Next"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1588583078885' status='passed' stop='1588583100674'>
+            <name>User shall be able to change operations information.</name>
+            <title>User shall be able to change operations information.</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588583078895' status='passed' stop='1588583078901'>
+                    <name>I scroll page to top </name>
+                    <title>I scroll page to top </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583079006' status='passed' stop='1588583079317'>
+                    <name>I fill field "#clia-license-number", "e6k5spq3ry"</name>
+                    <title>I fill field "#clia-license-number", "e6k5spq3ry"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583079420' status='passed' stop='1588583079685'>
+                    <name>I click "//ng-select[@formcontrolname='clia_expiry_month']"</name>
+                    <title>I click "//ng-select[@formcontrolname='clia_expiry_month']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583079788' status='passed' stop='1588583080075'>
+                    <name>I fill field "//ng-select[@formcontrolname='clia_expiry_month']//input", "March"</name>
+                    <title>I fill field "//ng-select[@formcontrolname='clia_expiry_month']//input", "March"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583080180' status='passed' stop='1588583080396'>
+                    <name>I press key "Enter"</name>
+                    <title>I press key "Enter"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583080496' status='passed' stop='1588583080766'>
+                    <name>I click "//ng-select[@formcontrolname='clia_expiry_year']"</name>
+                    <title>I click "//ng-select[@formcontrolname='clia_expiry_year']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583080870' status='passed' stop='1588583081146'>
+                    <name>I fill field "//ng-select[@formcontrolname='clia_expiry_year']//input", "2020"</name>
+                    <title>I fill field "//ng-select[@formcontrolname='clia_expiry_year']//input", "2020"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583081254' status='passed' stop='1588583081469'>
+                    <name>I press key "Enter"</name>
+                    <title>I press key "Enter"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583081573' status='passed' stop='1588583081867'>
+                    <name>I fill field "#cap-license-number", "zwqhluxtxd"</name>
+                    <title>I fill field "#cap-license-number", "zwqhluxtxd"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583081970' status='passed' stop='1588583082249'>
+                    <name>I click "//ng-select[@formcontrolname='cap_expiry_month']"</name>
+                    <title>I click "//ng-select[@formcontrolname='cap_expiry_month']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583082354' status='passed' stop='1588583082641'>
+                    <name>I fill field "//ng-select[@formcontrolname='cap_expiry_month']//input", "October"</name>
+                    <title>I fill field "//ng-select[@formcontrolname='cap_expiry_month']//input", "October"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583082747' status='passed' stop='1588583082961'>
+                    <name>I press key "Enter"</name>
+                    <title>I press key "Enter"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583083062' status='passed' stop='1588583083329'>
+                    <name>I click "//ng-select[@formcontrolname='cap_expiry_year']"</name>
+                    <title>I click "//ng-select[@formcontrolname='cap_expiry_year']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583083434' status='passed' stop='1588583083720'>
+                    <name>I fill field "//ng-select[@formcontrolname='cap_expiry_year']//input", "2022"</name>
+                    <title>I fill field "//ng-select[@formcontrolname='cap_expiry_year']//input", "2022"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583083825' status='passed' stop='1588583084041'>
+                    <name>I press key "Enter"</name>
+                    <title>I press key "Enter"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583084145' status='passed' stop='1588583084417'>
+                    <name>I click "//label[@for='is_responsible_for_collection_of_payment' and contains(text(),'Yes')]"</name>
+                    <title>I click "//label[@for='is_responsible_for_collection_of_payment' and contains(text(),'Yes')]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583084521' status='passed' stop='1588583084791'>
+                    <name>I fill field "//input[@formcontrolname = 'payment_fee']", 99</name>
+                    <title>I fill field "//input[@formcontrolname = 'payment_fee']", 99</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583084791' status='passed' stop='1588583086247'>
+                    <name>I save screenshot "output/check_this.png", true</name>
+                    <title>I save screenshot "output/check_this.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583086247' status='passed' stop='1588583087660'>
+                    <name>Array: forEach </name>
+                    <title>Array: forEach </title>
+                    <attachments/>
+                    <steps>
+                        <step start='1588583086247' status='passed' stop='1588583086280'>
+                            <name>I scroll to "//input[@name='business_hour_1']/following::label[@for='business_hour_1']", 100, -200</name>
+                            <title>I scroll to "//input[@name='business_hour_1']/following::label[@for='business_hour_1']", 100, -200</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583086280' status='passed' stop='1588583087284'>
+                            <name>I wait 1</name>
+                            <title>I wait 1</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583087385' status='passed' stop='1588583087660'>
+                            <name>I click "//input[@name='business_hour_1']/following::label[@for='business_hour_1']"</name>
+                            <title>I click "//input[@name='business_hour_1']/following::label[@for='business_hour_1']"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1588583087660' status='passed' stop='1588583091963'>
+                    <name>I: selectTime </name>
+                    <title>I: selectTime </title>
+                    <attachments/>
+                    <steps>
+                        <step start='1588583087660' status='passed' stop='1588583087712'>
+                            <name>I wait for clickable "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']", 3</name>
+                            <title>I wait for clickable "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']", 3</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583087816' status='passed' stop='1588583088084'>
+                            <name>I click "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']"</name>
+                            <title>I click "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583088084' status='passed' stop='1588583089085'>
+                            <name>I wait 1</name>
+                            <title>I wait 1</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583089189' status='passed' stop='1588583089491'>
+                            <name>I fill field "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']//input", "12:00 AM"</name>
+                            <title>I fill field "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']//input", "12:00 AM"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583089594' status='passed' stop='1588583089809'>
+                            <name>I press key "Enter"</name>
+                            <title>I press key "Enter"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583089809' status='passed' stop='1588583089859'>
+                            <name>I wait for clickable "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']", 3</name>
+                            <title>I wait for clickable "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']", 3</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583089963' status='passed' stop='1588583090234'>
+                            <name>I click "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']"</name>
+                            <title>I click "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583090234' status='passed' stop='1588583091234'>
+                            <name>I wait 1</name>
+                            <title>I wait 1</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583091339' status='passed' stop='1588583091642'>
+                            <name>I fill field "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']//input", "11:30 PM"</name>
+                            <title>I fill field "//input[@name='business_hour_1']/following::label[@for='business_hour_1']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']//input", "11:30 PM"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583091745' status='passed' stop='1588583091963'>
+                            <name>I press key "Enter"</name>
+                            <title>I press key "Enter"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1588583091963' status='passed' stop='1588583093379'>
+                    <name>Array: forEach </name>
+                    <title>Array: forEach </title>
+                    <attachments/>
+                    <steps>
+                        <step start='1588583091963' status='passed' stop='1588583091989'>
+                            <name>I scroll to "//input[@name='business_hour_2']/following::label[@for='business_hour_2']", 100, -200</name>
+                            <title>I scroll to "//input[@name='business_hour_2']/following::label[@for='business_hour_2']", 100, -200</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583091989' status='passed' stop='1588583092993'>
+                            <name>I wait 1</name>
+                            <title>I wait 1</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583093096' status='passed' stop='1588583093378'>
+                            <name>I click "//input[@name='business_hour_2']/following::label[@for='business_hour_2']"</name>
+                            <title>I click "//input[@name='business_hour_2']/following::label[@for='business_hour_2']"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1588583093379' status='passed' stop='1588583097674'>
+                    <name>I: selectTime </name>
+                    <title>I: selectTime </title>
+                    <attachments/>
+                    <steps>
+                        <step start='1588583093379' status='passed' stop='1588583093423'>
+                            <name>I wait for clickable "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']", 3</name>
+                            <title>I wait for clickable "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']", 3</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583093526' status='passed' stop='1588583093789'>
+                            <name>I click "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']"</name>
+                            <title>I click "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583093789' status='passed' stop='1588583094794'>
+                            <name>I wait 1</name>
+                            <title>I wait 1</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583094899' status='passed' stop='1588583095221'>
+                            <name>I fill field "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']//input", "12:00 AM"</name>
+                            <title>I fill field "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'open_time_as_str']//input", "12:00 AM"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583095323' status='passed' stop='1588583095537'>
+                            <name>I press key "Enter"</name>
+                            <title>I press key "Enter"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583095538' status='passed' stop='1588583095581'>
+                            <name>I wait for clickable "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']", 3</name>
+                            <title>I wait for clickable "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']", 3</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583095683' status='passed' stop='1588583095949'>
+                            <name>I click "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']"</name>
+                            <title>I click "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583095949' status='passed' stop='1588583096954'>
+                            <name>I wait 1</name>
+                            <title>I wait 1</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583097058' status='passed' stop='1588583097361'>
+                            <name>I fill field "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']//input", "11:30 PM"</name>
+                            <title>I fill field "//input[@name='business_hour_2']/following::label[@for='business_hour_2']//ancestor::div[contains(@class,'row margin-top')]//ng-select[@formcontrolname = 'close_time_as_str']//input", "11:30 PM"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583097462' status='passed' stop='1588583097673'>
+                            <name>I press key "Enter"</name>
+                            <title>I press key "Enter"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1588583097674' status='passed' stop='1588583097732'>
+                    <name>I select option "//select[@formcontrolname = 'lab_primary_focus_id']", "Option B"</name>
+                    <title>I select option "//select[@formcontrolname = 'lab_primary_focus_id']", "Option B"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583097733' status='passed' stop='1588583097739'>
+                    <name>I scroll page to bottom </name>
+                    <title>I scroll page to bottom </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583097843' status='passed' stop='1588583098110'>
+                    <name>I click "//input[@id='marketOfInterest']"</name>
+                    <title>I click "//input[@id='marketOfInterest']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583098214' status='passed' stop='1588583098484'>
+                    <name>I fill field "//input[@id='marketOfInterest']", "Chandler"</name>
+                    <title>I fill field "//input[@id='marketOfInterest']", "Chandler"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583098588' status='passed' stop='1588583098810'>
+                    <name>I press key "Enter"</name>
+                    <title>I press key "Enter"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583098811' status='passed' stop='1588583100296'>
+                    <name>I save screenshot "output/Laboratory/User shall be able to change operations information.png", true</name>
+                    <title>I save screenshot "output/Laboratory/User shall be able to change operations information.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583100401' status='passed' stop='1588583100674'>
+                    <name>I click "//div[@class='row margin-top-22']//div[@class='col-md-12']//div[@class='wizard-pager']//div//button[contains(text(),'Next')]"</name>
+                    <title>I click "//div[@class='row margin-top-22']//div[@class='col-md-12']//div[@class='wizard-pager']//div//button[contains(text(),'Next')]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1588583100675' status='passed' stop='1588583108105'>
+            <name>User shall be able to update payment info.</name>
+            <title>User shall be able to update payment info.</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588583100678' status='passed' stop='1588583100684'>
+                    <name>I scroll page to top </name>
+                    <title>I scroll page to top </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583100785' status='passed' stop='1588583101191'>
+                    <name>I fill field "//input[@formcontrolname='name' and @placeholder='Cardholder Name']", "SPQA FN Shania SPQA LN Paucek"</name>
+                    <title>I fill field "//input[@formcontrolname='name' and @placeholder='Cardholder Name']", "SPQA FN Shania SPQA LN Paucek"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583101336' status='passed' stop='1588583104024'>
+                    <name>Within "{"frame":"//iframe[contains(@title,'Secure payment input frame')]"}" </name>
+                    <title>Within "{"frame":"//iframe[contains(@title,'Secure payment input frame')]"}" </title>
+                    <attachments/>
+                    <steps>
+                        <step start='1588583101336' status='passed' stop='1588583101684'>
+                            <name>I fill field "//input[@name='cardnumber']", "4242424242424242"</name>
+                            <title>I fill field "//input[@name='cardnumber']", "4242424242424242"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583101787' status='passed' stop='1588583102057'>
+                            <name>I click "//input[@name='exp-date']"</name>
+                            <title>I click "//input[@name='exp-date']"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583102162' status='passed' stop='1588583102427'>
+                            <name>I fill field "//input[@name='exp-date']", "0922"</name>
+                            <title>I fill field "//input[@name='exp-date']", "0922"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583102532' status='passed' stop='1588583102804'>
+                            <name>I click "//input[@name='cvc']"</name>
+                            <title>I click "//input[@name='cvc']"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583102905' status='passed' stop='1588583103164'>
+                            <name>I fill field "//input[@name='cvc']", 713</name>
+                            <title>I fill field "//input[@name='cvc']", 713</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583103267' status='passed' stop='1588583103536'>
+                            <name>I click "//input[@name='postal']"</name>
+                            <title>I click "//input[@name='postal']"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1588583103639' status='passed' stop='1588583103913'>
+                            <name>I fill field "//input[@name='postal']", "54980"</name>
+                            <title>I fill field "//input[@name='postal']", "54980"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1588583104024' status='passed' stop='1588583104346'>
+                    <name>I fill field "//input[@formcontrolname='address_line1']", "74030 Lowe Shores"</name>
+                    <title>I fill field "//input[@formcontrolname='address_line1']", "74030 Lowe Shores"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583104449' status='passed' stop='1588583104734'>
+                    <name>I fill field "//input[@formcontrolname='address_line2']", "Apt. 784"</name>
+                    <title>I fill field "//input[@formcontrolname='address_line2']", "Apt. 784"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583104838' status='passed' stop='1588583105154'>
+                    <name>I fill field "//input[@formcontrolname='address_city']", "South Cassandrafort"</name>
+                    <title>I fill field "//input[@formcontrolname='address_city']", "South Cassandrafort"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583105155' status='passed' stop='1588583105190'>
+                    <name>I select option "//select[@formcontrolname='address_state']", "South Carolina"</name>
+                    <title>I select option "//select[@formcontrolname='address_state']", "South Carolina"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583105294' status='passed' stop='1588583105586'>
+                    <name>I fill field "//input[@formcontrolname='phone_number']", "8554937805"</name>
+                    <title>I fill field "//input[@formcontrolname='phone_number']", "8554937805"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583105691' status='passed' stop='1588583106205'>
+                    <name>I fill field "//input[@formcontrolname='email']", "SPQA+creditcard_lab_4wg_May04202005053074PM.bckiwaav@mailosaur.io"</name>
+                    <title>I fill field "//input[@formcontrolname='email']", "SPQA+creditcard_lab_4wg_May04202005053074PM.bckiwaav@mailosaur.io"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583106205' status='passed' stop='1588583107745'>
+                    <name>I save screenshot "output/Laboratory/User shall be able to update payment info.png", true</name>
+                    <title>I save screenshot "output/Laboratory/User shall be able to update payment info.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583107850' status='passed' stop='1588583108105'>
+                    <name>I click "//button[@type='submit']"</name>
+                    <title>I click "//button[@type='submit']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

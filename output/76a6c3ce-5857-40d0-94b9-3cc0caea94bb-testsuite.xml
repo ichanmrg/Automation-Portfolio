@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588582950777' stop='1588583071937'>
+    <name>1. Register:</name>
+    <title>1. Register:</title>
+    <test-cases>
+        <test-case start='1588582958494' status='passed' stop='1588582960034'>
+            <name>User shall be able to select Tier Plan</name>
+            <title>User shall be able to select Tier Plan</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588582958599' status='passed' stop='1588582958919'>
+                    <name>I click "//a[contains(text(),'Sign Up Now')]"</name>
+                    <title>I click "//a[contains(text(),'Sign Up Now')]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582958920' status='passed' stop='1588582959677'>
+                    <name>I save screenshot "output/Laboratory/User shall be able to select Tier Plan.png", true</name>
+                    <title>I save screenshot "output/Laboratory/User shall be able to select Tier Plan.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582959780' status='passed' stop='1588582960034'>
+                    <name>I click "//h4[contains(text(),'Tier 1 Plan')]/following-sibling::div/label"</name>
+                    <title>I click "//h4[contains(text(),'Tier 1 Plan')]/following-sibling::div/label"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1588582960037' status='passed' stop='1588582962876'>
+            <name>User shall be able to provide personal information</name>
+            <title>User shall be able to provide personal information</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588582960145' status='passed' stop='1588582960463'>
+                    <name>I fill field "//input[@formcontrolname = 'first_name']", "SPQA FN Shania"</name>
+                    <title>I fill field "//input[@formcontrolname = 'first_name']", "SPQA FN Shania"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582960565' status='passed' stop='1588582960854'>
+                    <name>I fill field "//input[@formcontrolname = 'last_name']", "SPQA LN Paucek"</name>
+                    <title>I fill field "//input[@formcontrolname = 'last_name']", "SPQA LN Paucek"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582960956' status='passed' stop='1588582961325'>
+                    <name>I fill field "//input[@formcontrolname = 'email']", "SPQA_lab_4wg_May04202005053074PM.bckiwaav@mailosaur.io"</name>
+                    <title>I fill field "//input[@formcontrolname = 'email']", "SPQA_lab_4wg_May04202005053074PM.bckiwaav@mailosaur.io"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582961431' status='passed' stop='1588582961723'>
+                    <name>I fill field "//input[@formcontrolname = 'password']", "QFDBUw8xgZaWIZS"</name>
+                    <title>I fill field "//input[@formcontrolname = 'password']", "QFDBUw8xgZaWIZS"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582961825' status='passed' stop='1588582962114'>
+                    <name>I fill field "//input[@formcontrolname = 'repeat_password']", "QFDBUw8xgZaWIZS"</name>
+                    <title>I fill field "//input[@formcontrolname = 'repeat_password']", "QFDBUw8xgZaWIZS"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582962115' status='passed' stop='1588582962876'>
+                    <name>I save screenshot "output/Laboratory/User shall be able to provide personal information.png", true</name>
+                    <title>I save screenshot "output/Laboratory/User shall be able to provide personal information.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1588582962877' status='passed' stop='1588582965126'>
+            <name>User shall be able to submit personal info for registration</name>
+            <title>User shall be able to submit personal info for registration</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588582962984' status='passed' stop='1588582963235'>
+                    <name>I click "//button[text () = 'Confirm']"</name>
+                    <title>I click "//button[text () = 'Confirm']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582963236' status='passed' stop='1588582964338'>
+                    <name>I see element in d o m "//h2[text()='Success!']"</name>
+                    <title>I see element in d o m "//h2[text()='Success!']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582964338' status='passed' stop='1588582964351'>
+                    <name>I see element in d o m "//*[text()='Email Confirmation Sent']"</name>
+                    <title>I see element in d o m "//*[text()='Email Confirmation Sent']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588582964351' status='passed' stop='1588582965126'>
+                    <name>I save screenshot "output/Laboratory/User shall be able to submit personal info for registration.png", true</name>
+                    <title>I save screenshot "output/Laboratory/User shall be able to submit personal info for registration.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1588582965126' status='failed' stop='1588583070921'>
+            <name>User shall be able to verify provided email address</name>
+            <title>User shall be able to verify provided email address</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588583060021' status='passed' stop='1588583062552'>
+                    <name>I am on page "http://myonemedicalsource-laboratory.spstage.com/auth/login?confirmation_token=6qxmqXj-J44nvz-rzqQTDrHougq1_q-VwxkW6kk391A"</name>
+                    <title>I am on page "http://myonemedicalsource-laboratory.spstage.com/auth/login?confirmation_token=6qxmqXj-J44nvz-rzqQTDrHougq1_q-VwxkW6kk391A"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583064433' status='passed' stop='1588583066189'>
+                    <name>I save screenshot "output/Laboratory/User shall be able to verify provided email address.png", true</name>
+                    <title>I save screenshot "output/Laboratory/User shall be able to verify provided email address.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583066190' status='failed' stop='1588583070920'>
+                    <name>I see element in d o m "//h2[text()='Success!']"</name>
+                    <title>I see element in d o m "//h2[text()='Success!']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Last Seen Screenshot' source='a415d7c1-7e5e-4e56-9bf2-5ec2a47a2f13-attachment.png' type='image/png' size='266498'/>
+            </attachments>
+            <failure>
+                <message></message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

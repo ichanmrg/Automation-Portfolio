@@ -1,0 +1,51 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588583108118' stop='1588583114846'>
+    <name>3. Add User:</name>
+    <title>3. Add User:</title>
+    <test-cases>
+        <test-case start='1588583108144' status='failed' stop='1588583113065'>
+            <name>User shall be able to add other laboratory users.</name>
+            <title>User shall be able to add other laboratory users.</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588583108254' status='failed' stop='1588583113065'>
+                    <name>Array: forEach </name>
+                    <title>Array: forEach </title>
+                    <attachments/>
+                    <steps>
+                        <step start='1588583108255' status='failed' stop='1588583113064'>
+                            <name>I click "//button//span[contains(text(),'Add Another User')]"</name>
+                            <title>I click "//button//span[contains(text(),'Add Another User')]"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Last Seen Screenshot' source='9e812a96-2dc4-4ccf-a5ee-c0668b6cec17-attachment.png' type='image/png' size='339506'/>
+            </attachments>
+            <failure>
+                <message>element not interactable
+                  (Session info: headless chrome=83.0.4103.34)
+                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.15.5 x86_64)</message>
+                <stack-trace>ElementNotVisibleError: element not interactable
+                  (Session info: headless chrome=83.0.4103.34)
+                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.15.5 x86_64)
+                    at Object.checkLegacyResponse (/Users/ichanmrg/Documents/Documents - Christian’s MacBook Pro/SourcePad/MOMS/my-one-medical-source/node_modules/selenium-webdriver/lib/error.js:546:15)
+                    at parseHttpResponse (/Users/ichanmrg/Documents/Documents - Christian’s MacBook Pro/SourcePad/MOMS/my-one-medical-source/node_modules/selenium-webdriver/lib/http.js:509:13)
+                    at doSend.then.response (/Users/ichanmrg/Documents/Documents - Christian’s MacBook Pro/SourcePad/MOMS/my-one-medical-source/node_modules/selenium-webdriver/lib/http.js:441:30)
+                    at process._tickCallback (internal/process/next_tick.js:68:7)
+                
+                From: Task: WebElement.click()
+                    at thenableWebDriverProxy.schedule (/Users/ichanmrg/Documents/Documents - Christian’s MacBook Pro/SourcePad/MOMS/my-one-medical-source/node_modules/selenium-webdriver/lib/webdriver.js:807:17)
+                    at WebElement.schedule_ (/Users/ichanmrg/Documents/Documents - Christian’s MacBook Pro/SourcePad/MOMS/my-one-medical-source/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)
+                    at WebElement.click (/Users/ichanmrg/Documents/Documents - Christian’s MacBook Pro/SourcePad/MOMS/my-one-medical-source/node_modules/selenium-webdriver/lib/webdriver.js:2092:17)
+                    at Protractor.click (/Users/ichanmrg/Documents/Documents - Christian’s MacBook Pro/SourcePad/MOMS/my-one-medical-source/node_modules/codeceptjs/lib/helper/Protractor.js:452:15)
+                    at process._tickCallback (internal/process/next_tick.js:68:7)
+                </stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

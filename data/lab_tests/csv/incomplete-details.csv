@@ -1,0 +1,38 @@
+Test Type,Test Name,Test Description,CPT Code,Order Code,ABN Requirement,Fasting,Container,Collection,Transport,Shipping box provided?,Stability - Ambient,Stability - Refrigerated,Stability - Frozen,Stability - Deep Frozen,Causes for Rejection,Methodology,Turnaround Time,Turnaround Time (Unit)
+"Speciality, Routine",,,,,"Req1, Req2",,"Cont1, Cont2, Cont3, Cont4",,,"Yes, No",Number of days,Number of days,Number of days,Number of days,,,Number,"Days, Weeks, Months"
+Specialty,,This is the test description.,CPTCODE0001,ORDERCODE1234,Req1,No food for 8 hours.,container1,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 2,,CPTCODE0002,ORDERCODE1235,Req2,No food for 8 hours.,container2,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 3,This is the test description.,,ORDERCODE1236,Req3,No food for 8 hours.,container3,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 4,This is the test description.,CPTCODE0004,,Req4,No food for 8 hours.,container4,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 5,This is the test description.,CPTCODE0005,ORDERCODE1238,,No food for 8 hours.,container5,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 6,This is the test description.,CPTCODE0006,ORDERCODE1239,Req6,,container6,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 7,This is the test description.,CPTCODE0007,ORDERCODE1240,Req7,No food for 8 hours.,,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 8,This is the test description.,CPTCODE0008,ORDERCODE1241,Req8,No food for 8 hours.,container8,,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 9,This is the test description.,CPTCODE0009,ORDERCODE1242,Req9,No food for 8 hours.,container9,GrabCar,,Yes,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 10,This is the test description.,CPTCODE0010,ORDERCODE1243,Req10,No food for 8 hours.,container10,GrabCar,GrabCar,,9,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 11,This is the test description.,CPTCODE0011,ORDERCODE1244,Req11,No food for 8 hours.,container11,GrabCar,GrabCar,Yes,,8,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 12,This is the test description.,CPTCODE0012,ORDERCODE1245,Req12,No food for 8 hours.,container12,GrabCar,GrabCar,Yes,9,,5,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 13,This is the test description.,CPTCODE0013,ORDERCODE1246,Req13,No food for 8 hours.,container13,GrabCar,GrabCar,Yes,9,8,,6,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 14,This is the test description.,CPTCODE0014,ORDERCODE1247,Req14,No food for 8 hours.,container14,GrabCar,GrabCar,Yes,9,8,5,,Rejection,EIA,10,Days
+Specialty,Incomplete Specialty Test 15,This is the test description.,CPTCODE0015,ORDERCODE1248,Req15,No food for 8 hours.,container15,GrabCar,GrabCar,Yes,9,8,5,6,,EIA,10,Days
+Specialty,Incomplete Specialty Test 16,This is the test description.,CPTCODE0016,ORDERCODE1249,Req16,No food for 8 hours.,container16,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,,10,Days
+Specialty,Incomplete Specialty Test 17,This is the test description.,CPTCODE0017,ORDERCODE1250,Req17,No food for 8 hours.,container17,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,,Days
+Specialty,Incomplete Specialty Test 18,This is the test description.,CPTCODE0018,ORDERCODE1251,Req18,No food for 8 hours.,container18,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,
+Routine,,This is the test description.,CPTCODE0001,ORDERCODE1234,Req1,No food for 8 hours.,container1,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 2,,CPTCODE0002,ORDERCODE1235,Req2,No food for 8 hours.,container2,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 3,This is the test description.,,ORDERCODE1236,Req3,No food for 8 hours.,container3,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 4,This is the test description.,CPTCODE0004,,Req4,No food for 8 hours.,container4,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 5,This is the test description.,CPTCODE0005,ORDERCODE1238,,No food for 8 hours.,container5,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 6,This is the test description.,CPTCODE0006,ORDERCODE1239,Req6,,container6,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 7,This is the test description.,CPTCODE0007,ORDERCODE1240,Req7,No food for 8 hours.,,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 8,This is the test description.,CPTCODE0008,ORDERCODE1241,Req8,No food for 8 hours.,container8,,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 9,This is the test description.,CPTCODE0009,ORDERCODE1242,Req9,No food for 8 hours.,container9,GrabCar,,Yes,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 10,This is the test description.,CPTCODE0010,ORDERCODE1243,Req10,No food for 8 hours.,container10,GrabCar,GrabCar,,9,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 11,This is the test description.,CPTCODE0011,ORDERCODE1244,Req11,No food for 8 hours.,container11,GrabCar,GrabCar,Yes,,8,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 12,This is the test description.,CPTCODE0012,ORDERCODE1245,Req12,No food for 8 hours.,container12,GrabCar,GrabCar,Yes,9,,5,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 13,This is the test description.,CPTCODE0013,ORDERCODE1246,Req13,No food for 8 hours.,container13,GrabCar,GrabCar,Yes,9,8,,6,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 14,This is the test description.,CPTCODE0014,ORDERCODE1247,Req14,No food for 8 hours.,container14,GrabCar,GrabCar,Yes,9,8,5,,Rejection,EIA,10,Days
+Routine,Incomplete Routine Test 15,This is the test description.,CPTCODE0015,ORDERCODE1248,Req15,No food for 8 hours.,container15,GrabCar,GrabCar,Yes,9,8,5,6,,EIA,10,Days
+Routine,Incomplete Routine Test 16,This is the test description.,CPTCODE0016,ORDERCODE1249,Req16,No food for 8 hours.,container16,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,,10,Days
+Routine,Incomplete Routine Test 17,This is the test description.,CPTCODE0017,ORDERCODE1250,Req17,No food for 8 hours.,container17,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,,Days
+Routine,Incomplete Routine Test 18,This is the test description.,CPTCODE0018,ORDERCODE1251,Req18,No food for 8 hours.,container18,GrabCar,GrabCar,Yes,9,8,5,6,Rejection,EIA,10,

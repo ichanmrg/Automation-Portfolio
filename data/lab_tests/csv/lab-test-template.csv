@@ -1,0 +1,3 @@
+Test Type,Test Name,Test Description,CPT Code,Order Code,ABN Requirement,Fasting,Container,Number of Tubes Required,Collection,Transport,Shipping box provided?,Stability - Ambient,Stability - Refrigerated,Stability - Frozen,Stability - Deep Frozen,Causes for Rejection,Methodology,Turnaround Time,
+Specialty,AAAA Specialty Complete field 1,Test Description,CPT Code,Order Code,Req1,2,container1,2,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,AAAA Routine Complete field 1,Test Description,CPT Code,Order Code,Req1,2,container1,2,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days

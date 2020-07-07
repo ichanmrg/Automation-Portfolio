@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588583114848' stop='1588583116873'>
+    <name>4. Login:</name>
+    <title>4. Login:</title>
+    <test-cases>
+        <test-case start='1588583114848' status='passed' stop='1588583116870'>
+            <name>User shall be able to logout</name>
+            <title>User shall be able to logout</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588583114954' status='passed' stop='1588583115211'>
+                    <name>I click "//*[text()='Log Out' or text()='LOG OUT']"</name>
+                    <title>I click "//*[text()='Log Out' or text()='LOG OUT']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583115212' status='passed' stop='1588583116861'>
+                    <name>I save screenshot "output/Laboratory/User shall be able to logout.png", true</name>
+                    <title>I save screenshot "output/Laboratory/User shall be able to logout.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583116861' status='passed' stop='1588583116870'>
+                    <name>I see current url equals "/auth/login"</name>
+                    <title>I see current url equals "/auth/login"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

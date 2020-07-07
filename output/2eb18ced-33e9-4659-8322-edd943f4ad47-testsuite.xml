@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588583116875' stop='1588583121664'>
+    <name>4. Login:</name>
+    <title>4. Login:</title>
+    <test-cases>
+        <test-case start='1588583118765' status='passed' stop='1588583121664'>
+            <name>User shall be able to login</name>
+            <title>User shall be able to login</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1588583118870' status='passed' stop='1588583119246'>
+                    <name>I fill field "//input[@formcontrolname='email']", "SPQA_lab_4wg_May04202005053074PM.bckiwaav@mailosaur.io"</name>
+                    <title>I fill field "//input[@formcontrolname='email']", "SPQA_lab_4wg_May04202005053074PM.bckiwaav@mailosaur.io"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583119351' status='passed' stop='1588583119635'>
+                    <name>I fill field "//input[@formcontrolname='password']", "QFDBUw8xgZaWIZS"</name>
+                    <title>I fill field "//input[@formcontrolname='password']", "QFDBUw8xgZaWIZS"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583119635' status='passed' stop='1588583121147'>
+                    <name>I save screenshot "output/Laboratory/User shall be able to login.png", true</name>
+                    <title>I save screenshot "output/Laboratory/User shall be able to login.png", true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583121248' status='passed' stop='1588583121494'>
+                    <name>I click "//button[text()='Login' or text()='LOGIN']"</name>
+                    <title>I click "//button[text()='Login' or text()='LOGIN']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1588583121494' status='passed' stop='1588583121664'>
+                    <name>I see element in d o m "//h2[text()='Success!']"</name>
+                    <title>I see element in d o m "//h2[text()='Success!']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

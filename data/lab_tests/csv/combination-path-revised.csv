@@ -1,0 +1,6 @@
+Test Type,Test Name,Test Description,CPT Code,Order Code,ABN Requirement,Fasting,Container,Collection,Transport,Shipping box provided?,Stability - Ambient,Stability - Refrigerated,Stability - Frozen,Stability - Deep Frozen,Causes for Rejection,Methodology,Turnaround Time,Turnaround Time (Unit)
+"Speciality, Routine",,,,,"Req1, Req2",,"Cont1, Cont2, Cont3, Cont4",,,"Yes, No",Number of days,Number of days,Number of days,Number of days,,,Number,"Days, Weeks, Months"
+Specialty,Combo test - Correct 1,Test Description,CPT Code,Order Code,Req1,Fasting,container1,Collection,Transport,Yes,9,8,5,6,Causes for Rejection,Methodology,5,Days
+Routine,Combo test - Correct 2,Test Description,CPT Code,Order Code,Req2,Fasting,container2,Collection,Transport,Yes,9,8,5,6,Causes for Rejection,Methodology,6,Days
+Specialty,Combo test - Correct 3,Test Description,CPT Code,Order Code,Req3,Fasting,container1,Collection,Transport,Yes,9,8,5,6,Causes for Rejection,Methodology,7,Days
+Special,Combo test - Incorrect 1 - Wrong Test Type,Test Description,CPT Code,Order Code,Req1,Fasting,container1,Collection,Transport,Yes,9,8,5,6,Causes for Rejection,Methodology,5,Days

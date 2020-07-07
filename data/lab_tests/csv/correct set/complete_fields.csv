@@ -1,0 +1,35 @@
+Test Type,Test Name,Test Description,CPT Code,Order Code,ABN Requirement,Fasting,Container,Collection,Transport,Shipping box provided?,Stability - Ambient,Stability - Refrigerated,Stability - Frozen,Stability - Deep Frozen,Causes for Rejection,Methodology,Turnaround Time,Turnaround Time (Unit)
+"Speciality, Routine",,,,,"Req1, Req2",,"Cont1, Cont2, Cont3, Cont4",,,"Yes, No",Number of days,Number of days,Number of days,Number of days,,,Number,"Days, Weeks, Months"
+Specialty,Specialty Complete field 1,Test Description,CPT Code,Order Code,Req1,Fasting,container1,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 2,Test Description,CPT Code,Order Code,Req1,Fasting,container2,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 3,Test Description,CPT Code,Order Code,Req1,Fasting,container3,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 4,Test Description,CPT Code,Order Code,Req1,Fasting,container4,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 5,Test Description,CPT Code,Order Code,Req1,Fasting,container5,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 6,Test Description,CPT Code,Order Code,Req1,Fasting,container6,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 7,Test Description,CPT Code,Order Code,Req1,Fasting,container7,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 8,Test Description,CPT Code,Order Code,Req1,Fasting,container8,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 9,Test Description,CPT Code,Order Code,Req1,Fasting,container9,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 10,Test Description,CPT Code,Order Code,Req1,Fasting,container10,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 11,Test Description,CPT Code,Order Code,Req1,Fasting,container11,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 12,Test Description,CPT Code,Order Code,Req1,Fasting,container12,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 13,Test Description,CPT Code,Order Code,Req1,Fasting,container13,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 14,Test Description,CPT Code,Order Code,Req1,Fasting,container14,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 15,Test Description,CPT Code,Order Code,Req1,Fasting,container15,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 16,Test Description,CPT Code,Order Code,Req1,Fasting,container16,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Specialty,Specialty Complete field 17,Test Description,CPT Code,Order Code,Req1,Fasting,container17,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 1,Test Description,CPT Code,Order Code,Req1,Fasting,container1,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 2,Test Description,CPT Code,Order Code,Req1,Fasting,container2,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 3,Test Description,CPT Code,Order Code,Req1,Fasting,container3,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 4,Test Description,CPT Code,Order Code,Req1,Fasting,container4,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 5,Test Description,CPT Code,Order Code,Req1,Fasting,container5,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 6,Test Description,CPT Code,Order Code,Req1,Fasting,container6,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 7,Test Description,CPT Code,Order Code,Req1,Fasting,container7,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 8,Test Description,CPT Code,Order Code,Req1,Fasting,container8,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 9,Test Description,CPT Code,Order Code,Req1,Fasting,container9,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 10,Test Description,CPT Code,Order Code,Req1,Fasting,container10,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 11,Test Description,CPT Code,Order Code,Req1,Fasting,container11,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 12,Test Description,CPT Code,Order Code,Req1,Fasting,container12,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 13,Test Description,CPT Code,Order Code,Req1,Fasting,container13,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 14,Test Description,CPT Code,Order Code,Req1,Fasting,container14,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 15,Test Description,CPT Code,Order Code,Req1,Fasting,container15,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days
+Routine,Routine Complete field 16,Test Description,CPT Code,Order Code,Req1,Fasting,container16,Collection,Transport,Yes,1,2,3,4,Causes for Rejection,Methodology,5,Days

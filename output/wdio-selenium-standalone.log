@@ -1,0 +1,17 @@
+17:02:33.526 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "browserName": "chrome",
+  "chromeOptions": {
+    "args": [
+      "--disable-gpu",
+      "--start-maximized",
+      "--no-sandbox",
+      "--headless"
+    ]
+  }
+}
+17:02:33.527 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 4115
+Only local connections are allowed.
+17:02:34.219 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+17:02:34.431 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session e25a8cbe014f542e622df78e72a5effe (org.openqa.selenium.chrome.ChromeDriverService)
+17:05:21.745 INFO [ActiveSessions$1.onStop] - Removing session e25a8cbe014f542e622df78e72a5effe (org.openqa.selenium.chrome.ChromeDriverService)
